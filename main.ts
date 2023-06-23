@@ -36,4 +36,4 @@ const _getCurrentlyPlaying = async (token) => {
   console.log(data);
 };
 
-getCurrentlyPlaying(TOKEN);
+_getCurrentlyPlaying(TOKEN);

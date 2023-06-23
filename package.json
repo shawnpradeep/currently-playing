@@ -2,7 +2,7 @@
   "name": "currently-playing",
   "version": "1.0.0",
   "description": "A Spotify microservice to request a user's currently playing song.",
-  "main": "main.js",
+  "main": "main.ts",
   "scripts": {
     "run": "node main.js"
   },
