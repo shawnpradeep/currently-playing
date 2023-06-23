@@ -1,3 +1,5 @@
+// Create .env files before accessing
+
 const dotenv = require("dotenv");
 
 dotenv.config();
